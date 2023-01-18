@@ -71,5 +71,8 @@
         margin-bottom: 170px;
     }
     #banner h1 {
-       font-size:14px;
+        font-size: 24px;
+    }
+    #banner span {
+        font-size: 16px;
     }
